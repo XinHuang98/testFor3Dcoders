@@ -8,4 +8,8 @@ Githubrepository：https://github.com/runxin123/testFor3Dcoders.git
 
 有不懂的欢迎大家骚扰：QQ号：2572705535
 
+学习指导：
 
+运用auth的用户注册：http://blog.csdn.net/I__can__fly/article/details/77678435
+
+自强学堂：https://code.ziqiangxuetang.com/django/django-tutorial.html
